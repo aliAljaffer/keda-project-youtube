@@ -2,6 +2,8 @@
 
 ## YouTube Video
 
+[https://youtu.be/U5NHGrqzWRg](https://youtu.be/U5NHGrqzWRg)
+
 ## You'll Learn
 
 - Docker basics
